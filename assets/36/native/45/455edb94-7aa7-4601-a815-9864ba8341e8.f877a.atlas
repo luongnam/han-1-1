@@ -1,0 +1,125 @@
+
+jackpot.png
+size: 317,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 86
+  size: 187, 56
+  orig: 189, 58
+  offset: 1, 1
+  index: -1
+1_coin1
+  rotate: false
+  xy: 252, 32
+  size: 29, 27
+  orig: 40, 31
+  offset: 11, 3
+  index: -1
+1_coin2
+  rotate: false
+  xy: 31, 4
+  size: 22, 22
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+1_coin3
+  rotate: true
+  xy: 191, 3
+  size: 27, 28
+  orig: 28, 29
+  offset: 0, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 28
+  size: 187, 56
+  orig: 189, 58
+  offset: 1, 1
+  index: -1
+A
+  rotate: true
+  xy: 2, 2
+  size: 24, 27
+  orig: 26, 29
+  offset: 1, 1
+  index: -1
+C
+  rotate: true
+  xy: 277, 5
+  size: 24, 28
+  orig: 26, 30
+  offset: 1, 1
+  index: -1
+J
+  rotate: false
+  xy: 224, 2
+  size: 22, 34
+  orig: 24, 36
+  offset: 1, 1
+  index: -1
+K
+  rotate: false
+  xy: 225, 74
+  size: 25, 27
+  orig: 27, 31
+  offset: 1, 1
+  index: -1
+O
+  rotate: false
+  xy: 224, 38
+  size: 26, 28
+  orig: 28, 30
+  offset: 1, 1
+  index: -1
+P
+  rotate: false
+  xy: 191, 32
+  size: 31, 34
+  orig: 33, 36
+  offset: 1, 1
+  index: -1
+T
+  rotate: true
+  xy: 248, 5
+  size: 25, 27
+  orig: 27, 29
+  offset: 1, 1
+  index: -1
+khung
+  rotate: true
+  xy: 252, 61
+  size: 184, 63
+  orig: 186, 65
+  offset: 1, 1
+  index: -1
+rong
+  rotate: false
+  xy: 2, 144
+  size: 248, 101
+  orig: 262, 111
+  offset: 14, 9
+  index: -1
+xx1
+  rotate: false
+  xy: 191, 103
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 191, 68
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 283, 31
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
